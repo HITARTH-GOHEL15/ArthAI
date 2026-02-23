@@ -1,0 +1,64 @@
+# ==============================
+# 🔹 Backend (Python)
+# ==============================
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+venv/
+.env.*
+.python-version
+
+# ==============================
+# 🔹 Kotlin Multiplatform
+# ==============================
+*.iml
+.kotlin
+.gradle
+local.properties
+captures
+
+# Build outputs
+**/build/
+!src/**/build/
+
+# ==============================
+# 🔹 Android
+# ==============================
+.idea
+.DS_Store
+.externalNativeBuild
+.cxx
+
+# ==============================
+# 🔹 iOS / Xcode
+# ==============================
+xcuserdata
+DerivedData
+*.xcworkspace
+*.xcuserstate
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# ==============================
+# 🔹 Desktop (Compose / JVM)
+# ==============================
+out/
+
+# ==============================
+# 🔹 Node (if used)
+# ==============================
+node_modules/
+
+# ==============================
+# 🔹 OS Generated
+# ==============================
+.DS_Store
+Thumbs.db
