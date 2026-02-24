@@ -86,11 +86,6 @@
 
 <div align="center">
 
-### Dashboard
-<img src="screenshots/dashboard.png" width="250" alt="Dashboard">
-
-*Feature cards with analysis and comparison options*
-
 ### Repository Analysis
 <img src="screenshots/analysis.png" width="250" alt="Analysis">
 
@@ -199,7 +194,6 @@ ArthAI/
 │   │   │   │   │   └── repoCompare/
 │   │   │   │   ├── di/          # Dependency injection
 │   │   │   │   └── ui/          # UI screens & components
-│   │   │   │       ├── dashBoard/
 │   │   │   │       ├── repoAnalyze/
 │   │   │   │       └── repo_comparison/
 │   │   ├── androidMain/         # Android-specific code
@@ -223,14 +217,13 @@ ArthAI follows **Clean Architecture** principles with clear separation of concer
 ### Architecture Layers
 
 ```
-┌─────────────────────────────────────────┐
-│           UI Layer (Compose)            │
+┌────────────────────────────────────────┐
+│           UI Layer (Compose)           │
 │  ┌─────────────────────────────────┐   │
-│  │ DashboardScreen                  │   │
-│  │ RepoAnalyzeScreen                │   │
-│  │ RepoCompareScreen                │   │
+│  │ RepoAnalyzeScreen               │   │
+│  │ RepoCompareScreen               │   │
 │  └─────────────────────────────────┘   │
-└──────────────────┬──────────────────────┘
+└──────────────────┬─────────────────────┘
                    │
 ┌──────────────────▼──────────────────────┐
 │        ViewModel Layer (State)          │
@@ -550,8 +543,8 @@ in the Software without restriction...
 <table>
 <tr>
   <td align="center">
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://github.com/YOUR_USERNAME.png" width="100px;" alt=""/>
+    <a href="https://github.com/HITARTH-GOHEL15">
+      <img src="https://github.com/HHITARTH-GOHEL15.png" width="100px;" alt=""/>
       <br />
       <sub><b>Your Name</b></sub>
     </a>
@@ -579,16 +572,14 @@ in the Software without restriction...
 
 ### Get in Touch
 
-- 📧 **Email**: your.email@example.com
-- 🐦 **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
-- 💼 **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 **Website**: [yourwebsite.com](https://yourwebsite.com)
+- 📧 **Email**: hitarthgohel15@gmail.com
+- 💼 **LinkedIn**: [Hitarth Gohel](www.linkedin.com/in/hitarthgohel)
 
 ### Report Issues
 
 Found a bug or have a suggestion? 
 
-👉 [Open an Issue](https://github.com/YOUR_USERNAME/ArthAI/issues)
+👉 [Open an Issue](https://github.com/HITARTH-GOHEL15/ArthAI/issues)
 
 ### Backend API
 
@@ -611,11 +602,11 @@ If you find this project useful, please consider:
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ArthAI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/ArthAI?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/ArthAI)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/ArthAI)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/ArthAI)
+![GitHub stars](https://img.shields.io/github/stars/HITARTH-GOHEL15/ArthAI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HITARTH-GOHEL15/ArthAI?style=social)
+![GitHub issues](https://img.shields.io/github/issues/HITARTH-GOHEL15/ArthAI)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/HITARTH-GOHEL15/ArthAI)
+![GitHub last commit](https://img.shields.io/github/last-commit/HITARTH-GOHEL15/ArthAI)
 
 ---
 
