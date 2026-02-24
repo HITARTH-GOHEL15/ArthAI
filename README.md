@@ -546,7 +546,7 @@ in the Software without restriction...
     <a href="https://github.com/HITARTH-GOHEL15">
       <img src="https://github.com/HHITARTH-GOHEL15.png" width="100px;" alt=""/>
       <br />
-      <sub><b>Your Name</b></sub>
+      <sub><b>Hitarth Gohel</b></sub>
     </a>
     <br />
     <sub>Lead Developer</sub>
