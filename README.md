@@ -463,7 +463,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📝 Changelog
 
-### Version 1.0.0 (February 2024)
+### Version 1.0.0 (February 2026)
 
 #### ✨ Features
 - Repository analysis with AI scoring
@@ -486,37 +486,6 @@ We welcome contributions! Here's how you can help:
 - Ktor networking
 - Koin dependency injection
 - StateFlow state management
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1 (Current) ✅
-- [x] Repository analysis
-- [x] Repository comparison
-- [x] Basic UI implementation
-- [x] Android support
-
-### Phase 2 (In Progress) 🚧
-- [ ] iOS app release
-- [ ] Desktop app release
-- [ ] History feature
-- [ ] Favorites/Bookmarks
-- [ ] Settings screen
-
-### Phase 3 (Planned) 📋
-- [ ] Offline caching
-- [ ] Share analysis results
-- [ ] Export to PDF
-- [ ] Dark/Light theme toggle
-- [ ] Multiple language support
-
-### Phase 4 (Future) 🔮
-- [ ] Code snippet analysis
-- [ ] Pull request review
-- [ ] Trend analysis
-- [ ] Repository recommendations
-- [ ] Team collaboration features
 
 ---
 
